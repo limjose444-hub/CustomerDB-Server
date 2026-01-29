@@ -17,3 +17,4 @@ The contacts app on macOS behaves in a special way, in CardDAV account setup you
 ## Debugging
 ### macOS/iOS Contacts App
 https://sabre.io/dav/clients/osx-addressbook/
+
